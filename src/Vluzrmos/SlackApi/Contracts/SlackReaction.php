@@ -2,7 +2,7 @@
 
 namespace Vluzrmos\SlackApi\Contracts;
 
-interface SlackFile
+interface SlackReaction
 {
     public function get($options = []);
 }

@@ -28,6 +28,7 @@ class SlackApiServiceProvider extends ServiceProvider
         'User',
         'Team',
         'Star',
+        'Reaction',
         'RealTimeMessage',
         'UserAdmin',
         'OAuth',

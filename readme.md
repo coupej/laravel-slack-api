@@ -29,6 +29,7 @@ Facades:
     'SlackSearch'           => Vluzrmos\SlackApi\Facades\SlackSearch::class,
     'SlackInstantMessage'   => Vluzrmos\SlackApi\Facades\SlackInstantMessage::class,
     'SlackUser'             => Vluzrmos\SlackApi\Facades\SlackUser::class,
+    'SlackReaction'         => Vluzrmos\SlackApi\Facades\SlackReaction::class,
     'SlackStar'             => Vluzrmos\SlackApi\Facades\SlackStar::class,
     'SlackUserAdmin'        => Vluzrmos\SlackApi\Facades\SlackUserAdmin::class,
     'SlackRealTimeMessage'  => Vluzrmos\SlackApi\Facades\SlackRealTimeMessage::class,

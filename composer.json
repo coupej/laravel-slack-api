@@ -49,6 +49,7 @@
                 "SlackStar": "Vluzrmos\\SlackApi\\Facades\\SlackStar",
                 "SlackTeam": "Vluzrmos\\SlackApi\\Facades\\SlackTeam",
                 "SlackUser": "Vluzrmos\\SlackApi\\Facades\\SlackUser",
+                "SlackReaction": "Vluzrmos\\SlackApi\\Facades\\SlackReaction",
                 "SlackUserAdmin": "Vluzrmos\\SlackApi\\Facades\\SlackUserAdmin"
             }
         }

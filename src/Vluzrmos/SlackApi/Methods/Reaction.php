@@ -17,7 +17,7 @@ class Reaction extends SlackMethod implements SlackReaction
 
     public function get($options = [])
     {
-        $this->method('get', $options);
+        return $this->method('get', $options);
     }
 
 
